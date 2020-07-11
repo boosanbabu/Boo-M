@@ -15,11 +15,11 @@ Greedy
 BackTracking
 
 
-Learning references
-System design - Primer
-[DP approaches and problems](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
-Backtracking Problems template
-Sliding window string problem template
+# Learning references
+System design - Primer <br/>
+[DP approaches and problems](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)<br/>
+Backtracking Problems template<br/>
+Sliding window string problem template<br/>
 
 
  
