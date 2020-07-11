@@ -3,48 +3,23 @@ Java Solutions for Algorithm and Data structure problems
 
 A comprehensive solution repository for Algorithm and Data structure Problems.
 
-Leetcode problems
+# Leetcode problems
 
-Tree
-LinkedList
-Graph
-Trie
-Arrays
-Dynamic Programming
-Greedy
-BackTracking
+Tree<br/>
+LinkedList<br/>
+Graph<br/>
+Trie<br/>
+Arrays<br/>
+Dynamic Programming<br/>
+Greedy<br/>
+BackTracking<br/>
 
 
-Interview MFAQs
+# Learning references
+[System design - Primer](https://github.com/donnemartin/system-design-primer) <br/>
+[DP approaches and problems - Leetcode](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)<br/>
+[Backtracking Problems template - Leetcode](https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))<br/>
+[Sliding window string problem template](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/discuss/49708/Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem.)<br/>
 
-Array
-1. [Sort Array with 0,1 & Sort Array with 0,1 & 2](https://github.com/boosanbabu/Boo-M)
 
-LinkedList
-2. [Reverse a linked list](https://github.com/boosanbabu/Boo-M)
-3. [Add two numbers - LinkedList](https://github.com/boosanbabu/Boo-M)
-4. [Intersection of two LinkedLists](https://github.com/boosanbabu/Boo-M)
-5. [Remove Nth node from end of LinkedList](https://github.com/boosanbabu/Boo-M)
-
-HashMap
-6. [Two Sum](https://github.com/boosanbabu/Boo-M)
-7. [3Sum](https://github.com/boosanbabu/Boo-M)
-
-Stack
-8. [Min Stack](https://github.com/boosanbabu/Boo-M)
-
-Design
-9. [LRU cache](https://github.com/boosanbabu/Boo-M)
-
-Dynamic Programming
-10.[Jump Game](https://github.com/boosanbabu/Boo-M)
-11.[Coin Change](https://github.com/boosanbabu/Boo-M)
-15.[Unique Paths](https://github.com/boosanbabu/Boo-M)
-
-Greedy
-12.[Merge Intervals](https://github.com/boosanbabu/Boo-M)
-
-Backtracking
-13.[Permutation](https://github.com/boosanbabu/Boo-M)
-14.[Combinations](https://github.com/boosanbabu/Boo-M)
-
+ 
