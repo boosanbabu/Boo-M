@@ -1,4 +1,4 @@
-package com.boom.codedaily.graph;
+package com.boom.codedaily.medium.graph;
 /*
  * https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
  */

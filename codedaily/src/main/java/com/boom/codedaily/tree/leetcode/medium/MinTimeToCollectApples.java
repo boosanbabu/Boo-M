@@ -1,4 +1,4 @@
-package com.boom.codedaily.tree;
+package com.boom.codedaily.tree.leetcode.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;

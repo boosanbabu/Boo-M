@@ -1,4 +1,4 @@
-package com.boom.codedaily.graph;
+package com.boom.codedaily.medium.graph;
 
 import java.util.HashMap;
 import java.util.Map;

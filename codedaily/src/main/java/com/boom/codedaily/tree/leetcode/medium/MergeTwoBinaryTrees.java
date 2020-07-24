@@ -1,4 +1,4 @@
-package com.boom.codedaily.tree;
+package com.boom.codedaily.tree.leetcode.medium;
 
 import com.boom.codedaily.common.TreeNode;
 import com.boom.codedaily.common.TreeUtil;
