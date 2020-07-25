@@ -24,7 +24,6 @@ public class ListNode {
 			sb.append(node.val).append(" ");
 			node = node.next;
 		}
-		System.out.println(sb.toString());
 		return sb.toString();
 	}
 
