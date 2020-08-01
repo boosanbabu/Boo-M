@@ -19,8 +19,9 @@ public class NumberOfIslands {
 		for (int i = 0; i < grid.length; i++) {
 			for (int j = 0; j < grid[0].length; j++) {
 				if (grid[i][j] == '1') {
+					// Found an island, start visiting its neighboring islands and mark them visited
 					sinkIsland(grid, i, j);
-					result++;
+					result++; // Add on to the result, as this marks 1 island cluster
 				}
 			}
 		}
