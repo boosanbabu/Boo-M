@@ -1,29 +1,30 @@
 # Boo-M
-One stop solution for Interview preparation.
+One stop solution for Coding Interview preparation.
 
 # Index
 * [Datastructure & Algorithms](#Datastructure-Algorithms)
 * [System Design](#System-Design)
 * [Other Tech topics](#Other-Tech-Topics)
-    * Git
+    * [Git](#Git)
     * Java
     * Spring
 * Behavioural
-* Interview Experiences
+* Interview Experiences/Questions
 
 
 # Datastructure Algorithms
 ## Categories<br/>
-Tree<br/>
-LinkedList<br/>
-[Graph](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/com/boom/codedaily/graph)<br/>
-[Tree](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/com/boom/codedaily/tree)<br/>
-[Trie](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/com/boom/codedaily/trie)<br/>
-[Arrays](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/com/boom/codedaily/arrays)<br/>
-[Dynamic Programming](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/com/boom/codedaily/dp)<br/>
-[Greedy](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/com/boom/codedaily/greedy)<br/>
-[Sliding Window](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/com/boom/codedaily/slidingwindow)<br/>
-BackTracking<br/>
+### Leetcode Medium
+* [Tree](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium)<br/>
+* [LinkedList](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium)<br/>
+* [Graph](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium/graph)<br/>
+* [Tree](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium/tree)<br/>
+* [Trie](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium/trie)<br/>
+* [Arrays](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium/arrays)<br/>
+* [Dynamic Programming](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium/dp)<br/>
+* [Greedy](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium/greedy)<br/>
+* [Sliding Window](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium/slidingwindow)<br/>
+* [BackTracking](https://github.com/boosanbabu/Boo-M/tree/develop/codedaily/src/main/java/dsa/leetcode/medium)<br/>
 
 
 

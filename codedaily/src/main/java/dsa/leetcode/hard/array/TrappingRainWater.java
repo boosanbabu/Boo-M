@@ -1,15 +1,26 @@
-package dsa.leetcode.medium.array;
+package dsa.leetcode.hard.array;
 
-public class MaxRainWaterTrap {
+/*
+ * 42. Trapping Rain Water
+ * https://leetcode.com/problems/trapping-rain-water/
+ * Given n non-negative integers representing an elevation map where the width of each bar is 1, 
+ * compute how much water it is able to trap after raining.
+*/
+public class TrappingRainWater {
 	public int trap(int[] height) {
 		System.out.println(dpMemoize(height));
 		return brute(height);
 	}
 
-	/*
-	 * BRUTE FORCE 1. For each element find tallestToLeft and tallestToRight 2.
-	 * Smallest of the two minus curr height is the amount of water that could be
-	 * trapped in that block 3. add that to result
+	/**
+	 * BRUTE FORCE <br>
+	 * 1. For each element find tallestToLeft and tallestToRight <br>
+	 * 2. Smallest of the two minus curr height is the amount of water that could be
+	 * trapped in that block<br>
+	 * 3. add that to result
+	 * 
+	 * Think better, can you construct two array one to store tallestToLeft and
+	 * other to store tallestToRight
 	 */
 	public int brute(int[] height) {
 		int res = 0, len = height.length;
@@ -31,10 +42,14 @@ public class MaxRainWaterTrap {
 		return max;
 	}
 
-	/*
+	/**
 	 * 1. For each element find tallestToLeft, tallestToRight and store that as
-	 * table 2. Minimum of the maximum minus curr. height is the water that can be
-	 * trapped for each element
+	 * table <br>
+	 * 2. Minimum of the maximum minus curr. height is the water that can be trapped
+	 * for each element
+	 * 
+	 * Can you think better O(1) space, while moving to each element you can just
+	 * keep track of tallestToLeft and tallestToRight in a variable??
 	 */
 	public int dpMemoize(int[] height) {
 		int res = 0, len = height.length;
@@ -58,7 +73,7 @@ public class MaxRainWaterTrap {
 	}
 
 	public static void main(String[] args) {
-		MaxRainWaterTrap m = new MaxRainWaterTrap();
+		TrappingRainWater m = new TrappingRainWater();
 		int[] height = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
 		System.out.println(m.trap(height));
 	}
