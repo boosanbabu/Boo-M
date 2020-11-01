@@ -1,5 +1,5 @@
 package dsa.leetcode.easy.linkedlist;
-
+//jaswanth kumar
 import dsa.leetcode.structures.ListNode;
 
 /* 1474. Delete N Nodes After M Nodes of a Linked List
